@@ -58,7 +58,7 @@
     todos.push(todo);
     listRiset();
     addList();
-    document.getElementById(`add-text`).value = ""
+    document.getElementById(`add-text`).value = ``;
   });
 
 }
